@@ -1,5 +1,9 @@
 # product_catalog
-
+Implement email/password login using the API from dummyjson.com.
+Fetch products from dummyjson.com and load more as the user scrolls.
+Show product details with an image, title, price, description, and "Add to
+Favorites" button.
+List all favorite items, ensuring they are saved across sessions
 ![WhatsApp Image 2024-11-17 at 03 35 05_c42338ea](https://github.com/user-attachments/assets/fd7cd63c-3f1a-4ff4-8d6d-f808b0aa95b4)
 ![WhatsApp Image 2024-11-17 at 03 35 06_f65cfbda](https://github.com/user-attachments/assets/bcb8bfa0-ab1f-4c16-b148-25449f83a798)
 ![WhatsApp Image 2024-11-17 at 03 35 06_afe39b3b](https://github.com/user-attachments/assets/aab64d29-3858-4668-ac91-414ba38e974d)
